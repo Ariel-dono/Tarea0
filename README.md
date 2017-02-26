@@ -1,8 +1,8 @@
 # Tecnológico de Costa Rica
-# Ingeniería en computación 
-# Introducción al reconocimiento de patrones
-# Trabajo práctico 0
-##### Ariel Herrera - German Vives - Javier Rivas
+### Ingeniería en computación 
+### Introducción al reconocimiento de patrones
+### Trabajo práctico 0
+#### Ariel Herrera - German Vives - Javier Rivas
  
 [Respuestas de ejercicios y demostraciones](https://www.overleaf.com/read/tprbrryvfdws)
 
